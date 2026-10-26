@@ -428,8 +428,8 @@
     "first_name": "#xyanzz! 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥",
     "last_name": null,
     "joinedAt": "2026-10-26T20:55:28.648Z",
-    "lastSeenAt": "2026-10-26T23:50:24.043Z",
-    "startCount": 49
+    "lastSeenAt": "2026-10-26T23:51:55.522Z",
+    "startCount": 50
   },
   "8662471455": {
     "id": 8662471455,
@@ -456,6 +456,24 @@
     "last_name": "bug",
     "joinedAt": "2026-10-26T23:50:59.473Z",
     "lastSeenAt": "2026-10-26T23:50:59.473Z",
+    "startCount": 1
+  },
+  "8748696458": {
+    "id": 8748696458,
+    "username": "Kayyz245",
+    "first_name": "𝐂𝟒𝐫𝐥𝐞𝐬.",
+    "last_name": null,
+    "joinedAt": "2026-10-26T23:51:05.385Z",
+    "lastSeenAt": "2026-10-26T23:51:05.385Z",
+    "startCount": 1
+  },
+  "8801043526": {
+    "id": 8801043526,
+    "username": "Yanzxxk",
+    "first_name": "VOID🎭",
+    "last_name": "PROJEXK🎭",
+    "joinedAt": "2026-10-26T23:51:12.454Z",
+    "lastSeenAt": "2026-10-26T23:51:12.454Z",
     "startCount": 1
   }
 }
