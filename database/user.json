@@ -428,8 +428,8 @@
     "first_name": "#xyanzz! 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥",
     "last_name": null,
     "joinedAt": "2026-10-26T20:55:28.648Z",
-    "lastSeenAt": "2026-10-26T23:10:18.830Z",
-    "startCount": 44
+    "lastSeenAt": "2026-10-26T23:14:41.673Z",
+    "startCount": 45
   },
   "8662471455": {
     "id": 8662471455,
@@ -438,6 +438,15 @@
     "last_name": null,
     "joinedAt": "2026-10-26T20:55:36.124Z",
     "lastSeenAt": "2026-10-26T20:55:36.124Z",
+    "startCount": 1
+  },
+  "8938669529": {
+    "id": 8938669529,
+    "username": "MonzoSupportCare1",
+    "first_name": "Support Monzo Banking Service",
+    "last_name": null,
+    "joinedAt": "2026-10-26T23:12:49.876Z",
+    "lastSeenAt": "2026-10-26T23:12:49.876Z",
     "startCount": 1
   }
 }
