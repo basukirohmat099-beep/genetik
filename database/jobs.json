@@ -90,8 +90,9 @@
     "user_id": 7565486613,
     "analyze_only": false,
     "build_type": "release",
-    "status": "pending",
+    "status": "success",
     "created_at": "2026-10-26T21:53:09.060Z",
-    "file_name": "TwoBlue new thme final fix 99%%.zip"
+    "file_name": "TwoBlue new thme final fix 99%%.zip",
+    "completed_at": "2026-10-26T22:03:39.865Z"
   }
 }
