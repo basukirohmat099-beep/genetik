@@ -1,0 +1,84 @@
+{
+  "mtwqcga3ml50k": {
+    "job_id": "mtwqcga3ml50k",
+    "release_id": 386906222,
+    "release_tag": "build-mtwqcga3ml50k",
+    "run_id": 34582338369,
+    "user_id": 8306752132,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "failed",
+    "created_at": "2026-09-11T09:04:36.426Z",
+    "completed_at": "2026-09-11T09:09:50.135Z"
+  },
+  "mtwr2smnh7i4n": {
+    "job_id": "mtwr2smnh7i4n",
+    "release_id": 386917566,
+    "release_tag": "build-mtwr2smnh7i4n",
+    "run_id": 34584088316,
+    "user_id": 8306752132,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "pending",
+    "created_at": "2026-09-11T09:25:07.051Z"
+  },
+  "mu6llaelkps4g": {
+    "job_id": "mu6llaelkps4g",
+    "release_id": 391267191,
+    "release_tag": "build-mu6llaelkps4g",
+    "run_id": 35316543630,
+    "user_id": 8306752132,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "success",
+    "created_at": "2026-09-18T06:49:09.221Z",
+    "completed_at": "2026-09-18T06:56:41.209Z"
+  },
+  "mu6sly53kisdx": {
+    "job_id": "mu6sly53kisdx",
+    "release_id": 391374658,
+    "release_tag": "build-mu6sly53kisdx",
+    "run_id": 35332921645,
+    "user_id": 8306752132,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "success",
+    "created_at": "2026-09-18T10:05:37.796Z",
+    "completed_at": "2026-09-18T10:13:29.352Z"
+  },
+  "mu8fre4y001xt": {
+    "job_id": "mu8fre4y001xt",
+    "release_id": 392085641,
+    "release_tag": "build-mu8fre4y001xt",
+    "run_id": 35446510313,
+    "user_id": 8306752132,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "success",
+    "created_at": "2026-09-19T13:41:32.340Z",
+    "completed_at": "2026-09-19T13:48:31.203Z"
+  },
+  "muay20wlxuv0f": {
+    "job_id": "muay20wlxuv0f",
+    "release_id": 392773716,
+    "release_tag": "build-muay20wlxuv0f",
+    "run_id": 35574777960,
+    "user_id": 8306752132,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "success",
+    "created_at": "2026-09-21T07:49:23.394Z",
+    "completed_at": "2026-09-21T07:56:55.282Z"
+  },
+  "mvpqtcsqqz9qs": {
+    "job_id": "mvpqtcsqqz9qs",
+    "release_id": 424766754,
+    "release_tag": "build-mvpqtcsqqz9qs",
+    "run_id": 40400970492,
+    "user_id": 7565486613,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "pending",
+    "created_at": "2026-10-26T21:02:47.016Z"
+  }
+}
