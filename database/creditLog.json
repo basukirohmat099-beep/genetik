@@ -782,5 +782,26 @@
     "amount": 5,
     "reason": "Kredit awal (user baru)",
     "at": "2026-10-27T00:03:08.201Z"
+  },
+  {
+    "userId": 7871780254,
+    "type": "earn",
+    "amount": 5,
+    "reason": "Kredit awal (user baru)",
+    "at": "2026-10-27T00:28:15.914Z"
+  },
+  {
+    "userId": 7871780254,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Build Flutter (release)",
+    "at": "2026-10-27T00:29:26.447Z"
+  },
+  {
+    "userId": 7871780254,
+    "type": "earn",
+    "amount": 1,
+    "reason": "Tambahan kredit",
+    "at": "2026-10-27T00:30:13.837Z"
   }
 ]
