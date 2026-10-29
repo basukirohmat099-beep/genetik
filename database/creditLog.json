@@ -817,5 +817,68 @@
     "amount": 5,
     "reason": "Kredit awal (user baru)",
     "at": "2026-10-29T03:33:41.205Z"
+  },
+  {
+    "userId": 8562138543,
+    "type": "earn",
+    "amount": 5,
+    "reason": "Kredit awal (user baru)",
+    "at": "2026-10-29T06:32:18.141Z"
+  },
+  {
+    "userId": 8659743562,
+    "type": "earn",
+    "amount": 5,
+    "reason": "Kredit awal (user baru)",
+    "at": "2026-10-29T06:32:37.169Z"
+  },
+  {
+    "userId": 7041832555,
+    "type": "earn",
+    "amount": 5,
+    "reason": "Kredit awal (user baru)",
+    "at": "2026-10-29T07:37:00.711Z"
+  },
+  {
+    "userId": 7041832555,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Build Flutter (release)",
+    "at": "2026-10-29T07:37:29.285Z"
+  },
+  {
+    "userId": 7041832555,
+    "type": "earn",
+    "amount": 1,
+    "reason": "Tambahan kredit",
+    "at": "2026-10-29T07:39:52.818Z"
+  },
+  {
+    "userId": 7041832555,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Build Flutter (release)",
+    "at": "2026-10-29T07:41:02.323Z"
+  },
+  {
+    "userId": 7041832555,
+    "type": "earn",
+    "amount": 1,
+    "reason": "Tambahan kredit",
+    "at": "2026-10-29T07:43:39.473Z"
+  },
+  {
+    "userId": 8659743562,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Build Flutter (release)",
+    "at": "2026-10-29T07:44:12.538Z"
+  },
+  {
+    "userId": 8732408288,
+    "type": "earn",
+    "amount": 5,
+    "reason": "Kredit awal (user baru)",
+    "at": "2026-10-29T07:49:41.842Z"
   }
 ]
