@@ -880,5 +880,26 @@
     "amount": 5,
     "reason": "Kredit awal (user baru)",
     "at": "2026-10-29T07:49:41.842Z"
+  },
+  {
+    "userId": 7041832555,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Build Flutter (release)",
+    "at": "2026-10-29T08:23:36.150Z"
+  },
+  {
+    "userId": 7041832555,
+    "type": "earn",
+    "amount": 1,
+    "reason": "Tambahan kredit",
+    "at": "2026-10-29T08:29:20.682Z"
+  },
+  {
+    "userId": 8656383648,
+    "type": "earn",
+    "amount": 5,
+    "reason": "Kredit awal (user baru)",
+    "at": "2026-10-29T08:54:52.287Z"
   }
 ]
