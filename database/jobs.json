@@ -106,5 +106,16 @@
     "status": "failed",
     "created_at": "2026-10-30T19:57:34.380Z",
     "completed_at": "2026-10-30T20:03:20.823Z"
+  },
+  "mvwgbclkduwfq": {
+    "job_id": "mvwgbclkduwfq",
+    "release_id": 429962271,
+    "release_tag": "build-mvwgbclkduwfq",
+    "run_id": 41206830585,
+    "user_id": 8413210577,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "pending",
+    "created_at": "2026-10-31T13:43:13.711Z"
   }
 }
