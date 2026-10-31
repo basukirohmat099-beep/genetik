@@ -8,7 +8,15 @@
   "TIRZZ-128279D7": {
     "amount": 1000000,
     "maxUses": 1,
-    "usedBy": [],
+    "usedBy": [
+      8407162512
+    ],
     "createdAt": "2026-10-31T13:25:08.216Z"
+  },
+  "TIRZZ-36FB9849": {
+    "amount": 1000,
+    "maxUses": 2,
+    "usedBy": [],
+    "createdAt": "2026-10-31T13:49:58.754Z"
   }
 }
