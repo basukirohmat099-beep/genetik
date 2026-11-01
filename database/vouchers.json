@@ -16,7 +16,9 @@
   "TIRZZ-36FB9849": {
     "amount": 1000,
     "maxUses": 2,
-    "usedBy": [],
+    "usedBy": [
+      8095102728
+    ],
     "createdAt": "2026-10-31T13:49:58.754Z"
   }
 }
