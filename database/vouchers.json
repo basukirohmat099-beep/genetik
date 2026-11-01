@@ -24,7 +24,9 @@
   "TIRZZ-48385CBE": {
     "amount": 1000,
     "maxUses": 100,
-    "usedBy": [],
+    "usedBy": [
+      8966733694
+    ],
     "createdAt": "2026-11-01T03:57:28.029Z"
   }
 }
