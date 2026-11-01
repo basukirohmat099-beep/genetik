@@ -565,5 +565,14 @@
     "joinedAt": "2026-11-01T03:56:33.784Z",
     "lastSeenAt": "2026-11-01T03:56:34.423Z",
     "startCount": 2
+  },
+  "8941022262": {
+    "id": 8941022262,
+    "username": "Marketnokos22",
+    "first_name": "Kiki",
+    "last_name": null,
+    "joinedAt": "2026-11-01T14:02:12.192Z",
+    "lastSeenAt": "2026-11-01T14:02:12.292Z",
+    "startCount": 3
   }
 }
