@@ -943,5 +943,68 @@
     "amount": 5,
     "reason": "Kredit awal (user baru)",
     "at": "2026-11-02T12:34:32.966Z"
+  },
+  {
+    "userId": 8960772037,
+    "type": "earn",
+    "amount": 5,
+    "reason": "Kredit awal (user baru)",
+    "at": "2026-11-02T12:35:37.277Z"
+  },
+  {
+    "userId": 7860329124,
+    "type": "earn",
+    "amount": 5,
+    "reason": "Kredit awal (user baru)",
+    "at": "2026-11-02T13:43:41.370Z"
+  },
+  {
+    "userId": 7860329124,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Rename Nama App",
+    "at": "2026-11-02T13:45:00.842Z"
+  },
+  {
+    "userId": 7860329124,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Rename Nama App",
+    "at": "2026-11-02T13:46:03.542Z"
+  },
+  {
+    "userId": 7860329124,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Rename Domain",
+    "at": "2026-11-02T13:47:25.625Z"
+  },
+  {
+    "userId": 7860329124,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Rename Domain",
+    "at": "2026-11-02T14:12:48.513Z"
+  },
+  {
+    "userId": 7860329124,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Rename Nama App",
+    "at": "2026-11-02T14:14:23.260Z"
+  },
+  {
+    "userId": 5967070544,
+    "type": "earn",
+    "amount": 5,
+    "reason": "Kredit awal (user baru)",
+    "at": "2026-11-02T21:34:46.221Z"
+  },
+  {
+    "userId": 6489685533,
+    "type": "earn",
+    "amount": 5,
+    "reason": "Kredit awal (user baru)",
+    "at": "2026-11-02T22:58:45.862Z"
   }
 ]
