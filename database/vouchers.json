@@ -40,5 +40,11 @@
     "maxUses": 100,
     "usedBy": [],
     "createdAt": "2026-11-04T05:17:50.287Z"
+  },
+  "TIRZZ-330C247D": {
+    "amount": 10,
+    "maxUses": 1,
+    "usedBy": [],
+    "createdAt": "2026-11-05T00:10:59.260Z"
   }
 }
