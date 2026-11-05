@@ -143,28 +143,15 @@
     "created_at": "2026-11-02T20:33:18.134Z",
     "completed_at": "2026-11-02T20:40:31.890Z"
   },
-  "mw39t1zxpu8mx": {
-    "job_id": "mw39t1zxpu8mx",
-    "release_id": 434930569,
-    "release_tag": "build-mw39t1zxpu8mx",
-    "run_id": 41993059353,
-    "user_id": 5855177899,
+  "mw3tzueauoflo": {
+    "job_id": "mw3tzueauoflo",
+    "release_id": 435520961,
+    "release_tag": "build-mw3tzueauoflo",
+    "run_id": 42076929869,
+    "user_id": 1980364845,
     "analyze_only": false,
     "build_type": "release",
-    "status": "success",
-    "created_at": "2026-11-05T08:15:29.892Z",
-    "completed_at": "2026-11-05T08:22:22.498Z"
-  },
-  "mw3a5zczc9d8r": {
-    "job_id": "mw3a5zczc9d8r",
-    "release_id": 434939131,
-    "release_tag": "build-mw3a5zczc9d8r",
-    "run_id": 41994340799,
-    "user_id": 5855177899,
-    "analyze_only": true,
-    "build_type": "analyze",
-    "status": "success",
-    "created_at": "2026-11-05T08:25:29.921Z",
-    "completed_at": "2026-11-05T08:31:44.675Z"
+    "status": "pending",
+    "created_at": "2026-11-05T17:40:36.634Z"
   }
 }
