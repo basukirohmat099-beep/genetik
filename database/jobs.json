@@ -166,5 +166,16 @@
     "status": "failed",
     "created_at": "2026-11-05T17:43:51.881Z",
     "completed_at": "2026-11-05T17:44:36.738Z"
+  },
+  "mw3va85rjj6z0": {
+    "job_id": "mw3va85rjj6z0",
+    "release_id": 435557940,
+    "release_tag": "build-mw3va85rjj6z0",
+    "run_id": 42082664077,
+    "user_id": 1980364845,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "pending",
+    "created_at": "2026-11-05T18:16:41.170Z"
   }
 }
