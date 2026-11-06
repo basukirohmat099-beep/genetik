@@ -223,8 +223,9 @@
     "user_id": 8642251155,
     "analyze_only": false,
     "build_type": "release",
-    "status": "pending",
-    "created_at": "2026-11-06T11:17:01.027Z"
+    "status": "success",
+    "created_at": "2026-11-06T11:17:01.027Z",
+    "completed_at": "2026-11-06T11:26:05.579Z"
   },
   "mw4w12azh0rto": {
     "job_id": "mw4w12azh0rto",
