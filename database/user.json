@@ -671,8 +671,8 @@
     "first_name": "⸸ 𝐅𝐨𝐫𝐭𝐮𝐧𝐭 | RADTZU",
     "last_name": null,
     "joinedAt": "2026-11-04T23:18:48.221Z",
-    "lastSeenAt": "2026-11-06T11:06:28.722Z",
-    "startCount": 10
+    "lastSeenAt": "2026-11-06T11:09:31.462Z",
+    "startCount": 11
   },
   "8974949470": {
     "id": 8974949470,
@@ -691,5 +691,23 @@
     "joinedAt": "2026-11-05T17:13:14.519Z",
     "lastSeenAt": "2026-11-06T06:27:12.914Z",
     "startCount": 4
+  },
+  "8613513143": {
+    "id": 8613513143,
+    "username": "ZAMXSAJA",
+    "first_name": "ZAMXS",
+    "last_name": "zam",
+    "joinedAt": "2026-11-06T11:09:27.494Z",
+    "lastSeenAt": "2026-11-06T11:09:27.494Z",
+    "startCount": 1
+  },
+  "7346877055": {
+    "id": 7346877055,
+    "username": "cogil13",
+    "first_name": "𝗠𝗔𝗡𝗣𝗔𝗟 -- RIZZ🚀",
+    "last_name": null,
+    "joinedAt": "2026-11-06T11:09:29.192Z",
+    "lastSeenAt": "2026-11-06T11:09:29.192Z",
+    "startCount": 1
   }
 }
