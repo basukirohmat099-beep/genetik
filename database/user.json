@@ -671,8 +671,8 @@
     "first_name": "⸸ 𝐅𝐨𝐫𝐭𝐮𝐧𝐭 | RADTZU",
     "last_name": null,
     "joinedAt": "2026-11-04T23:18:48.221Z",
-    "lastSeenAt": "2026-11-06T11:13:40.107Z",
-    "startCount": 12
+    "lastSeenAt": "2026-11-06T11:43:08.152Z",
+    "startCount": 13
   },
   "8974949470": {
     "id": 8974949470,
@@ -708,6 +708,42 @@
     "last_name": null,
     "joinedAt": "2026-11-06T11:09:29.192Z",
     "lastSeenAt": "2026-11-06T11:09:29.192Z",
+    "startCount": 1
+  },
+  "8617300384": {
+    "id": 8617300384,
+    "username": "MAKLOWANJAI",
+    "first_name": "⸸ 𝐅𝐨𝐫𝐭𝐮𝐧𝐭_𝘿𝙍𝙄𝙇𝙄𝙆𝙓𝙕 𝙉𝙊𝙏 𝘿𝙀𝙑[ 𝙥𝙚𝙣𝙨𝙞 ]",
+    "last_name": null,
+    "joinedAt": "2026-11-06T11:22:37.398Z",
+    "lastSeenAt": "2026-11-06T11:22:37.398Z",
+    "startCount": 1
+  },
+  "8517527613": {
+    "id": 8517527613,
+    "username": "Akliofc",
+    "first_name": "༒︎ 𝐀𝐤𝐥𝐢 ⌁ 𝐒𝐨𝐟𝐭𝐬𝐩𝐨𝐤𝐞𝐧 ༒︎",
+    "last_name": null,
+    "joinedAt": "2026-11-06T11:28:09.021Z",
+    "lastSeenAt": "2026-11-06T11:28:09.021Z",
+    "startCount": 1
+  },
+  "8530861775": {
+    "id": 8530861775,
+    "username": "RaffzStore",
+    "first_name": "RAFFZ STORE",
+    "last_name": null,
+    "joinedAt": "2026-11-06T11:29:04.707Z",
+    "lastSeenAt": "2026-11-06T11:29:04.707Z",
+    "startCount": 1
+  },
+  "8729764973": {
+    "id": 8729764973,
+    "username": "hankawe",
+    "first_name": "⏤͟͟hᴀᤨɴɴ Kawee </>",
+    "last_name": null,
+    "joinedAt": "2026-11-06T11:42:31.388Z",
+    "lastSeenAt": "2026-11-06T11:42:31.388Z",
     "startCount": 1
   }
 }
