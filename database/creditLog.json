@@ -54,5 +54,26 @@
     "amount": 1,
     "reason": "Rename All",
     "at": "2026-11-06T11:37:37.094Z"
+  },
+  {
+    "userId": 8729764973,
+    "type": "earn",
+    "amount": 5,
+    "reason": "Kredit awal (user baru)",
+    "at": "2026-11-06T11:42:31.385Z"
+  },
+  {
+    "userId": 8530861775,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Rename All",
+    "at": "2026-11-06T11:43:41.846Z"
+  },
+  {
+    "userId": 8628680956,
+    "type": "earn",
+    "amount": 5,
+    "reason": "Kredit awal (user baru)",
+    "at": "2026-11-06T12:06:53.553Z"
   }
 ]
