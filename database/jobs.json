@@ -358,5 +358,16 @@
     "status": "success",
     "created_at": "2026-11-11T06:23:25.333Z",
     "completed_at": "2026-11-11T06:29:12.437Z"
+  },
+  "mwc3t3sa3arti": {
+    "job_id": "mwc3t3sa3arti",
+    "release_id": 441673224,
+    "release_tag": "build-mwc3t3sa3arti",
+    "run_id": 43021932204,
+    "user_id": 8864329799,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "pending",
+    "created_at": "2026-11-11T12:37:31.192Z"
   }
 }
