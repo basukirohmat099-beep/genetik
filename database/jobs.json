@@ -343,8 +343,9 @@
     "user_id": 8864329799,
     "analyze_only": false,
     "build_type": "release",
-    "status": "pending",
-    "created_at": "2026-11-11T06:20:27.095Z"
+    "status": "success",
+    "created_at": "2026-11-11T06:20:27.095Z",
+    "completed_at": "2026-11-11T06:27:07.008Z"
   },
   "mwbqg4q7hiar2": {
     "job_id": "mwbqg4q7hiar2",
