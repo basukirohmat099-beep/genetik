@@ -334,5 +334,16 @@
     "status": "success",
     "created_at": "2026-11-10T05:14:01.912Z",
     "completed_at": "2026-11-10T05:20:14.089Z"
+  },
+  "mwbqcbap03hby": {
+    "job_id": "mwbqcbap03hby",
+    "release_id": 441305476,
+    "release_tag": "build-mwbqcbap03hby",
+    "run_id": 42971724753,
+    "user_id": 8864329799,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "pending",
+    "created_at": "2026-11-11T06:20:27.095Z"
   }
 }
