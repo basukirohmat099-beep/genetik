@@ -369,5 +369,16 @@
     "build_type": "release",
     "status": "pending",
     "created_at": "2026-11-11T12:37:31.192Z"
+  },
+  "mwc3vbzj6g9jj": {
+    "job_id": "mwc3vbzj6g9jj",
+    "release_id": 441675111,
+    "release_tag": "build-mwc3vbzj6g9jj",
+    "run_id": 43022187170,
+    "user_id": 8993400177,
+    "analyze_only": true,
+    "build_type": "analyze",
+    "status": "pending",
+    "created_at": "2026-11-11T12:39:14.793Z"
   }
 }
