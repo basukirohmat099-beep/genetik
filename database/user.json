@@ -952,5 +952,14 @@
     "joinedAt": "2026-11-17T17:15:53.295Z",
     "lastSeenAt": "2026-11-17T17:20:55.328Z",
     "startCount": 3
+  },
+  "8802973089": {
+    "id": 8802973089,
+    "username": null,
+    "first_name": "May",
+    "last_name": null,
+    "joinedAt": "2026-11-17T23:58:37.210Z",
+    "lastSeenAt": "2026-11-17T23:58:37.210Z",
+    "startCount": 1
   }
 }
