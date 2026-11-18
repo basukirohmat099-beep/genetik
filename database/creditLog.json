@@ -243,5 +243,33 @@
     "amount": 5,
     "reason": "Kredit awal (user baru)",
     "at": "2026-11-17T23:35:57.112Z"
+  },
+  {
+    "userId": 8802973089,
+    "type": "earn",
+    "amount": 5,
+    "reason": "Kredit awal (user baru)",
+    "at": "2026-11-17T23:57:54.666Z"
+  },
+  {
+    "userId": 8802973089,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Ganti Function",
+    "at": "2026-11-18T00:06:38.856Z"
+  },
+  {
+    "userId": 8802973089,
+    "type": "spend",
+    "amount": 1,
+    "reason": "Rename Domain",
+    "at": "2026-11-18T00:21:10.665Z"
+  },
+  {
+    "userId": 8814945890,
+    "type": "earn",
+    "amount": 5,
+    "reason": "Kredit awal (user baru)",
+    "at": "2026-11-18T04:50:08.582Z"
   }
 ]
