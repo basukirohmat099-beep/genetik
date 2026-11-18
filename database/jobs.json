@@ -418,5 +418,16 @@
     "status": "failed",
     "created_at": "2026-11-18T09:35:59.759Z",
     "completed_at": "2026-11-18T09:39:43.718Z"
+  },
+  "mwlxvfeeztbk9": {
+    "job_id": "mwlxvfeeztbk9",
+    "release_id": 449781129,
+    "release_tag": "build-mwlxvfeeztbk9",
+    "run_id": 44279440598,
+    "user_id": 7614729198,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "pending",
+    "created_at": "2026-11-18T09:49:00.694Z"
   }
 }
