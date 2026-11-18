@@ -961,5 +961,14 @@
     "joinedAt": "2026-11-17T23:58:37.210Z",
     "lastSeenAt": "2026-11-18T00:07:31.209Z",
     "startCount": 2
+  },
+  "8814945890": {
+    "id": 8814945890,
+    "username": "Bennaja",
+    "first_name": "@Benn",
+    "last_name": null,
+    "joinedAt": "2026-11-18T04:51:50.188Z",
+    "lastSeenAt": "2026-11-18T04:51:50.188Z",
+    "startCount": 1
   }
 }
