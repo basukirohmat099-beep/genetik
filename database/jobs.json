@@ -430,5 +430,16 @@
     "status": "failed",
     "created_at": "2026-11-18T09:49:00.694Z",
     "completed_at": "2026-11-18T09:52:33.863Z"
+  },
+  "mwlzjtsws2q56": {
+    "job_id": "mwlzjtsws2q56",
+    "release_id": 449832916,
+    "release_tag": "build-mwlzjtsws2q56",
+    "run_id": 44286905242,
+    "user_id": 7614729198,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "pending",
+    "created_at": "2026-11-18T10:35:54.823Z"
   }
 }
